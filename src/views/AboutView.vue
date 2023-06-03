@@ -1,12 +1,11 @@
 <template>
     <div class="text-center">
-        <h2 class="text-center text-xl sm:text-2xl font-bold uppercase dark:text-white">Hi! it's Sailesh Rijal </h2>
-        <p class="sm:text-center text-justify my-4 sm:w-4/12 mx-auto dark:text-gray-300">
-            Passionate about software development, I'm expanding my knowledge by mastering
-            .Net technology. With a keen
-            eye for detail and a commitment to excellence, I create captivating and user-friendly web applications. Let's
-            build something amazing together!</p>
-        <p class="text-center text-blue-600">#DotNetCore #WebApplication</p>
+        <h2 class="text-center text-xl sm:text-2xl font-bold uppercase dark:text-white">Hi! It's Francesco Colazzo</h2>
+        <p class="sm:text-center text-justify my-4 sm:w-4/12 mx-auto dark:text-gray-300">   
+            Passionate and proactive, I apply myself in everything I do.
+            I like to make modern web applications through several technologies that allows me to improve my skills and my knowledge.
+        </p>
+        <p class="text-center text-green-600">#Frontend #Backend #WebApplication #PHP</p>
     </div>
 </template>
 <script setup>
